@@ -82,3 +82,7 @@ Pour configurer le bot, ouvrez le fichier **`config.json`** et remplissez les ch
 | **`/stock`** | Affiche le stock actuel de tous les services. |
 
 ---
+
+> ⚠️ **Avertissement :** Ce projet est à but éducatif.  
+> Il ne doit pas être utilisé pour distribuer ou générer des comptes tiers (Netflix, Spotify, etc.).  
+> L’auteur décline toute responsabilité en cas d’usage illégal.  
