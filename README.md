@@ -13,7 +13,7 @@
 - [🎉・Installation](#setup)
 - [⚙・Configuration](#config)
 - [💻・Commandes](#commands)
-- [🔗・Support Discord](LIEN_VERS_VOTRE_SERVEUR_DISCORD)
+- [🔗・Support Discord](https://discord.new/ymeKZjGHSg9Z)
 ---
 
 ## <a id="features"></a>🔰 » Fonctionnalités
