@@ -10,7 +10,6 @@
 ## <a id="menu"></a>🔱 » Menu
 
 - [🔰・Fonctionnalités](#features)
-- [📸・Démonstration Visuelle](#proofs)
 - [🎉・Installation](#setup)
 - [⚙・Configuration](#config)
 - [💻・Commandes](#commands)
@@ -25,18 +24,6 @@
 * **🛠️ Commandes Administrateur :** Commandes slash pour gérer le stock (`/create`, `/add`, `/stock`) et déployer le panel (`/panel`).
 * **🔔 Système de Log :** Met à jour un message de log en temps réel dans un salon dédié.
 * **📺 Activité Streaming :** Affichage du statut "En stream" lié à votre Twitch.
-
----
-
-## <a id="proofs"></a>📸 » Démonstration Visuelle
-
-Voici quelques aperçus du bot en action, confirmant son efficacité et son design :
-
-| Preuve | Description |
-| :--- | :--- |
-| **Panel de Génération** | Affichage du panel interactif avec les services disponibles et gestion de l'erreur de cooldown. |
-| **Logs en Temps Réel** | Vue des logs enregistrant les succès et les refus de génération (No Stock, Cooldown). |
-| **Confirmation en DM** | L'embed de succès envoyé en message privé contenant les identifiants générés. |
 
 ---
 
