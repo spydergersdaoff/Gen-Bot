@@ -1,0 +1,10 @@
+{
+  "token": "TON_TOKEN_DE_BOT_ICI",
+  "clientId": "ID_CLIENT_DE_TON_BOT",
+  "guildId": "ID_DU_SERVEUR_PRINCIPAL",
+  "adminRoleId": "ID_DU_ROLE_ADMIN_POUR_LES_COMMANDES_SLASH",
+  "genChannelId": "ID_DU_SALON_DE_GÉNÉRATION_PRINCIPAL",
+  "logChannelId": "ID_DU_SALON_DE_LOG", 
+  "genCooldown": 60000, 
+  "panelGifUrl": "https://media.discordapp.net/attachments/1437088915357175871/1437105105353572403/6910b59b377d6e26798e0436.gif?ex=691207ed&is=6910b66d&hm=d8dc0acdf94bfa3889d30c87871c7c56605e43f3ebd3e16e8d335bd844317523&="
+}
